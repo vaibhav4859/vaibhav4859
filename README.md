@@ -2,7 +2,7 @@
 vaibhav4859/vaibhav4859 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Vaibhav</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Vaibhav</h1>
 
 - 🌱 I’m currently learning **Js & Dsa**
 
@@ -36,3 +36,9 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
+
+
+## 🐱My Github stats:
+![vaibhav4859's github stats](https://github-readme-stats.vercel.app/api?username=vaibhav4859&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) 
+
+<p align="center"> <img src="https://gpvc.arturio.dev/vaibhav4859" alt="candida18" > </p>
