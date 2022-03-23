@@ -4,6 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Vaibhav</h1>
 
+- 📚 I'm a currently pursuing bachelor’s degree in IT.
+
 - 🌱 I’m currently learning **Js & Dsa**
 
 - 🔭 I’m currently devloping my skills in web development.
@@ -41,4 +43,8 @@ You can click the Preview link to take a look at your changes.
 ## 🐱My Github stats:
 ![vaibhav4859's github stats](https://github-readme-stats.vercel.app/api?username=vaibhav4859&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) 
 
-<p align="center"> <img src="https://gpvc.arturio.dev/vaibhav4859" alt="candida18" > </p>
+<p align="center"> 
+  Visitor count
+  <br>
+  <img src="https://profile-counter.glitch.me/vaibhav4859/count.svg" />
+</p>
