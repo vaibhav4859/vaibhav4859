@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📚 I'm a currently pursuing bachelor’s degree in IT.
 
-- 🌱 I’m currently learning **Js & Dsa**
+- 🌱 I’m currently learning **MERN Stack & Dsa**
 
 - 🔭 I’m currently devloping my skills in web development.
 
