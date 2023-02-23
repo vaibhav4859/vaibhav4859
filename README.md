@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/vaibhav4859/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-sachdeva-78b510207" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vaibhav_4859/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav_4859" height="30" width="40" /></a>
 <a href="https://leetcode.com/vaibhav4859/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav_485" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vsachdeva4859" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="vaibhav_485" height="30" width="auto" /></a>
+<a href="https://codeforces.com/profile/vaibhav_4859" target="blank"><img align="center" src="https://codeforces.org/s/64488/images/codeforces-sponsored-by-ton.png" alt="vaibhav_485" height="30" width="auto" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
